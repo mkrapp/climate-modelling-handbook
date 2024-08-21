@@ -1,0 +1,26 @@
+name: asp_winterschool
+channels:
+  - conda-forge
+dependencies:
+  - ipykernel
+  - python=3.11
+  - matplotlib
+  - cartopy
+  - xarray
+  - dask
+  - netcdf4
+  - hdf5
+  - rasterio
+  - ffmpeg
+  - scipy
+  - cmocean
+  - cmcrameri
+  - pandas
+  - tqdm
+  - wrf-python
+  - ipywidgets
+  - watermark
+  - ca-certificates
+  - openssl
+  - notebook
+  - certifi
